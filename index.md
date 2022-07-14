@@ -1,6 +1,6 @@
 <head>
     <meta charset = "UTF-8">
-    <class="title">Enzo Marcano</title>
+    <class="title">Enzo Marcano</class="title">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
